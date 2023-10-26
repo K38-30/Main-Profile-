@@ -1,6 +1,6 @@
 <h1>Hi,am Shri
 </h1>
-<h2>, Cybersecurity Professional, Chess Player, Tech Savvy </h2>
+<h2>Cybersecurity Professional | Chess Player | Tech Savvy </h2>
 
 <h2>⚙️ Cybersecurity Projects</h2>
 
